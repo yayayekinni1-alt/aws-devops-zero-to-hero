@@ -13,7 +13,7 @@ cloudwatch = boto3.client('cloudwatch', region_name='us-east-1')
 products = {
     '1': {'name': 'Product 1', 'price': 10.99},
     '2': {'name': 'Product 2', 'price': 19.99},
-    '3': {'name': 'Product 3', 'price': 5.49}
+    '3': {'name': 'Product 3', 'price': 5.49} 
 }
 
 @app.route('/')

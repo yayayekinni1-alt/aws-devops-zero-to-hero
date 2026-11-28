@@ -5,7 +5,7 @@ If you've never heard of CDN or CloudFront before, don't worry. we'll start from
 ## Table of Contents
 1. Introduction to Content Delivery Networks (CDN)
 2. What is CloudFront?
-3. How Does CloudFront Work?
+3. How Does CloudFront Work? 
 4. Benefits of CloudFront
 5. Setting Up CloudFront on AWS
 6. Use Cases and Scenarios
